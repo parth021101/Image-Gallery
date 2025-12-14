@@ -23,5 +23,5 @@ An interactive and visually appealing image gallery showcasing stunning photogra
 
 ## Live Demo
 
-Explore the live version of the WOOL HAVEN Landing Page here:
+Explore the live version of the Cardography Landing Page here:
 [cardography.netlify.app](https://cardography.netlify.app/)
